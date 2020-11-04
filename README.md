@@ -52,7 +52,7 @@ After you have completed the requirements, try any of the following challenges. 
 
 Follow these steps for completing your project.
 
- [ ] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
+ [x] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
 
 ## Resources
 
